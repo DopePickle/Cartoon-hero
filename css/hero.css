@@ -1,0 +1,25 @@
+html, body{
+	font-family: "Times New Roman", Times, serif;
+	margin:0;
+}
+
+header{
+	background-color: #990000;
+	padding: 40px;
+	text-align: center;
+}
+
+h1{
+	font-size: 90px;
+	color: white;
+}
+
+header img{
+	border-radius: 150px;
+	border: 7px solid #4d0000;
+}
+
+/*<header>
+			<img src="img/profile.jpg">
+			<h1>Julius Caesar</h1>
+		</header>*/
